@@ -4,8 +4,9 @@ public class Ejemplo {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Hola Mundo!");
+		System.out.println("Estar en sus casa");
+		System.out.println("Hola Casa!");
 		System.out.println("Bienvenidos a OO2");
-		System.out.println("Vamos a ver Git en el día de hoy");
+		System.out.println("Así vemos Git remoto");
 	}
 }
